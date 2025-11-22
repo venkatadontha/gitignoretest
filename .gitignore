@@ -1,5 +1,4 @@
 *.txt
-#config.js
-folder/
+config.js
 Folder1/
 /Folder3
