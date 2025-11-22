@@ -1,3 +1,4 @@
-test.txt
+!test.txt
 config.js
 folder1/
+*.txt
